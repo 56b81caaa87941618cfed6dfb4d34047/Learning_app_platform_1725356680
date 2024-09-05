@@ -11,7 +11,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
   <footer id="footer-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-white">
       <!-- Blocks -->
-      <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
+      <div class="grid sm:grid-cols-12 gap-8">
         <!-- 1st block -->
         <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none">
           <div class="h-full flex flex-col sm:flex-row lg:flex-col justify-between">
